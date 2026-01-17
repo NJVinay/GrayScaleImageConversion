@@ -1,6 +1,5 @@
 # Grayscale Image Conversion
 
-**GitHub Repository**: https://github.com/NJVinay/GrayScaleImageConversion
 
 A serverless image processing service that converts color images to grayscale using AWS infrastructure.
 
